@@ -1,0 +1,11 @@
+<package>
+	<metadata>
+		<id>TestXMLLib</id>
+		<version>1.0.0.0</version>
+		<authors>Parimal</authors>
+		<description>Sample XML Operations</description>
+	</metadata>
+	<files>
+		<file src="https://parimalshah123.visualstudio.com/MyFirstProject/_git/demoRepo?_a=contents/TestXMLLib.dll" target="lib\TestXMLLib.dll"/>
+	</files>
+</package>
